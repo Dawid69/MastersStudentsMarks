@@ -58,7 +58,7 @@ This sheet is where the data will be input of each student:
   Adds the information entered into the Subject info fields to the table on the right hand side. 
 #### Undo Subject: 
   Removes the last entered subject and resets the counter. 
-  ** DO NOT REMOVE AN INCORRECT SUBJECT ANY OTHER WAY!!!! **
+  **DO NOT REMOVE AN INCORRECT SUBJECT ANY OTHER WAY!!!!**
 #### Export student:
   Sends the entered info to the studentList sheet. 
   
@@ -85,4 +85,4 @@ This sheet is where the data will be input of each student:
 - Y: Calculated amount of Y
 - Final Score: The final calculated Score
 
-*** The Other Values in control panel should not be adapted UNDER ANY CIRCUMSTANCES ***
+***The Other Values in control panel should not be adapted UNDER ANY CIRCUMSTANCES***
