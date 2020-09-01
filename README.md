@@ -49,6 +49,8 @@ This sheet is where the data will be input of each student:
       Drop down of the relevant work experience that the student has.
     Academic (Non psycology):
       Drop down of the highest level of academic progress achieved
+      
+**Section B Work experience will be flagged when exporting student if the experience contains a value Designated as 'other'**
 
 ## Using studentInput sheet:
 ### Meanings of buttons: 
